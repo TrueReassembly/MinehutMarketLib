@@ -1,0 +1,6 @@
+name: MinehutServerLib
+version: '${project.version}'
+main: xyz.reassembly.minehutserverlib.MinehutServerLib
+api-version: 1.18
+authors: [ Reassembly ]
+description: Library for market products to use
